@@ -1,0 +1,7 @@
+{
+  "name": "internet_market_demo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jwt-decode": "^4.0.0"
+  }
+}
